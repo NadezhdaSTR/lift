@@ -1,0 +1,11 @@
+Model Information:
+* title:	TKE Lot15 Service Lift
+* source:	https://sketchfab.com/3d-models/tke-lot15-service-lift-828994b4ecff40169dbe8b4fe29f3f45
+* author:	Mikhail-9971 (https://sketchfab.com/Mikhail-9971)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "TKE Lot15 Service Lift" (https://sketchfab.com/3d-models/tke-lot15-service-lift-828994b4ecff40169dbe8b4fe29f3f45) by Mikhail-9971 (https://sketchfab.com/Mikhail-9971) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
